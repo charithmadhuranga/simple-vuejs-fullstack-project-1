@@ -4,7 +4,7 @@ const mongodb = require('mongodb');
 const router = express.Router();
 
 
-const uri = "mongodb+srv://charith:Skyline1234%40A@cluster0.z71my7s.mongodb.net/?retryWrites=true&w=majority";
+const uri = "mongodb+srv://username:password@clustername.z71my7s.mongodb.net/?retryWrites=true&w=majority";
 
 
 
